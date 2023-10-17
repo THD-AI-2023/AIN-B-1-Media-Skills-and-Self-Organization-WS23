@@ -10,11 +10,11 @@
 - For me, facts are more important than people or feelings.
 - I immerse myself in books for hours on my own.
 
-1 = not at all
-2 = a little
-3 = sometimes
-4 = often
-5 = always
+1 = not at all  
+2 = a little  
+3 = sometimes  
+4 = often  
+5 = always 
 
 ---
 
@@ -26,11 +26,11 @@
 - I always know how much money is in my account.
 - I plan my time carefully and hate it when I get caught up unexpectedly.
 
-1 = not at all
-2 = a little
-3 = sometimes
-4 = often
-5 = always
+1 = not at all  
+2 = a little  
+3 = sometimes  
+4 = often  
+5 = always 
 
 ---
 
@@ -42,11 +42,11 @@
 - I listen more to my feelings than to my head.
 - I can enjoy and savor beautiful situations and experiences to the fullest.
 
-1 = not at all
-2 = a little
-3 = sometimes
-4 = often
-5 = always
+1 = not at all  
+2 = a little  
+3 = sometimes  
+4 = often  
+5 = always 
 
 ---
 
@@ -58,11 +58,11 @@
 - I listen to other people rather than talking and telling about myself.
 - I need harmony and cannot stand quarrels and conflicts well.
 
-1 = not at all
-2 = a little
-3 = sometimes
-4 = often
-5 = always
+1 = not at all  
+2 = a little  
+3 = sometimes  
+4 = often  
+5 = always 
 
 
 ---
@@ -106,8 +106,6 @@
 ### Values to which you have given a total of 18-25 points:
 
 These values are decisive for you. They determine your actions and influence you in the choice of your professional activity. With these high values, you must expect that other people will have little understanding for your strong convictions.
-
-## BASIC VALUES TEST - EVALUATION
 
 ### Values to which you have given a total of 8-17 points:
 
